@@ -1,0 +1,19 @@
+Rocki can you please do the following to the server for website creation:
+
+ I would like to host a XAMPP (Web) Server so we can develop the site locally before publishing.
+ For this I need some ports forwarded so I can work on it when I am at your place or at home.
+ For XAMPP can i please have the following ports forwarded:
+
+	*Apache - Port 150
+	*FTP - Port 151
+	*MySQL - Port 152
+
+ I would also like to have SSH access to ~/xampp. For this i will need port 153.
+
+ Also, I need any firewall that may stop incomming and outgoing traffic stopped for said ports (150-153)
+
+ Also, I assume that the server has a static IP address.
+
+Thanks,
+
+Alex
